@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emacia</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        h1 {
+            color: #3498db;
+        }
+
+        p {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Emacia</h1>
+
+    <p>
+        Emacia is the first and incumbent <p><a href="chancellor.html">Chancellor of Discordia</a></p>, serving since September 2023.
+    </p>
+
+</body>
+</html>
