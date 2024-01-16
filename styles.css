@@ -3,7 +3,7 @@
   text-align: left;
 }
 
-.infobox {
+.infobox table{
   border-collapse: collapse;
   border: 1px solid black;
 }
