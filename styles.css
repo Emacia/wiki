@@ -1,5 +1,9 @@
-.infobox th, .infobox td, .infobox{
+.infobox th, .infobox td, {
   border: 1px solid black;
   padding: 8px;
   text-align: left;
+}
+
+.infobox {
+  border-collapse: collapse;
 }
