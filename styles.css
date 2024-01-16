@@ -1,5 +1,7 @@
 .infobox th, .infobox td, {
   border: 2px solid black;
+  padding: 8px;
+  text-align: left;
 }
 
 .infobox {
