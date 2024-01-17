@@ -5,8 +5,9 @@ th, td {
 .infobox {
   border-collapse: collapse;
   border: 5px solid green;
+  width: 300px;
 }
 
 body {
-  font-family: sans-serif;
+  font-family: monospace;
 }
