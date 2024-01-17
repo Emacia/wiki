@@ -1,6 +1,6 @@
 th, td {
   border: 10px solid black;
-  border-collapse: separate;
+  border-collapse: collapse;
 }
 
 body {
