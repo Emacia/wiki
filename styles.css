@@ -1,6 +1,10 @@
 th, td {
   border: 10px solid black;
-  border-collapse: collapse;
+}
+
+.infobox {
+  border-collapse: collapse
+  border: 10px solid green;
 }
 
 body {
