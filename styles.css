@@ -1,4 +1,4 @@
-th, td, {
+th, td {
   border: 10px solid black;
   border-collapse: separate;
 }
