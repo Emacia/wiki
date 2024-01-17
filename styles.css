@@ -1,12 +1,12 @@
 th, td {
-  border: 10px solid black;
+  border: 2px solid black;
 }
 
 .infobox {
-  border-collapse: separate;
-  border: 10px solid green;
+  border-collapse: collapse;
+  border: 5px solid green;
 }
 
 body {
-  font-family: monospace;
+  font-family: sans-serif;
 }
