@@ -3,10 +3,10 @@ th, td {
 }
 
 .infobox {
-  border-collapse: collapse;
+  border-collapse: separate;
   border: 10px solid green;
 }
 
 body {
-  font-family: sans-serif;
+  font-family: monospace;
 }
