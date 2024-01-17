@@ -26,6 +26,6 @@ body {
 
 .party_list {
   list-style-type: none;
-  margin-left: 5;
-  padding: 0;
+  margin: 0;
+  padding-left: 5;
 }
