@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arab Freedom Party/title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <h1>Party Template</h1>
+
+    <table class="infobox">
+        <tr>
+            <th>Arab Freedom Party</th>
+            <td style="background-color: #123456;">Arab Freedom Party</td>
+        </tr>
+        <tr>
+            <th>Leader</th>
+            <td><a href="mokarim.html">Mokarim</a></td>
+        </tr>
+        <tr>
+            <th>Deputy Leader</th>
+            <td style="background-color: white;"><a href="bibo.html">Bibo</a></td>
+        </tr>
+        <tr>
+            <th>Parliamentary Leader</th>
+            <td style="background-color: white;"><a href="mokarim.html">Mokarim</a></td>
+        </tr>
+        <tr>
+            <th>Abbreviation</th>
+            <td>AFP</td>
+        </tr>
+        <tr>
+            <th>Date Established</th>
+            <td>20 May 2023/td>
+        </tr>
+        <tr>
+            <th>Membership</th>
+            <td>5 (18/01/24)</td>
+        </tr>
+        <tr>
+            <th>Position</th>
+            <td>Centre-Left to Left-Wing/td>
+        </tr>
+        <tr>
+            <th>Ideology</th>
+            <td><a href="https://en.wikipedia.org/wiki/Socialism">Socialism</a>, <a href="https://en.wikipedia.org/wiki/Pan-Arabism">Pan-Arabism/a>, <a href="https://en.wikipedia.org/wiki/Secularism">Semi-Secularism/a></td>
+        </tr>
+        <tr>
+            <th>Seats in Parliament</th>
+            <td>
+                3/17
+                <div class="composition-bar">
+               <div class="composition-fill" style="width: 18%; background-color: #036335;"></div>
+
+                </div>
+            </td>
+        </tr>
+    </table>
+
+</body>
+</html>
