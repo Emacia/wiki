@@ -3,7 +3,7 @@ th, td {
 }
 
 .infobox {
-  border-collapse: collapse
+  border-collapse: collapse;
   border: 10px solid green;
 }
 
