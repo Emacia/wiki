@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Democratic Party of Discordia</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <h1>Democratic Party of Discordia</h1>
+
+    <table class="infobox">
+        <tr>
+            <th>Title</th>
+            <td style="background-color: #123456;">Democratic Party of Discordia</td>
+        </tr>
+        <tr>
+            <th>Leader</th>
+            <td><a href="party_leader.html">Hydra</a></td>
+        </tr>
+        <tr>
+            <th>Deputy Leader</th>
+            <td style="background-color: white;"><a href="deputy_leader.html">N/A</a></td>
+        </tr>
+        <tr>
+            <th>Parliamentary Leader</th>
+            <td style="background-color: white;"><a href="parliamentary_leader.html">Sir Duke Gromble V, Esq.</a></td>
+        </tr>
+        <tr>
+            <th>Abbreviation</th>
+            <td>DPD</td>
+        </tr>
+        <tr>
+            <th>Date Established</th>
+            <td>XX XXXXXXXXX XXXX</td>
+        </tr>
+        <tr>
+            <th>Membership</th>
+            <td>9 (1/04/24)</td>
+        </tr>
+        <tr>
+            <th>Position</th>
+            <td>Position</td>
+        </tr>
+        <tr>
+            <th>Position</th>
+            <td>Center to Right-wing</td>
+        </tr>
+        <tr>
+            <th>Seats in Parliament</th>
+            <td>
+                1/17
+                <div class="composition-bar">
+               <div class="composition-fill" style="width: 6%; background-color: #009bce;"></div>
+
+                </div>
+            </td>
+        </tr>
+    </table>
+
+</body>
+</html>
